@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100"
+    android:background="@drawable/bg"> <!-- Background image -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="11.11"></LinearLayout>
+   
+    <Button
+        android:id="@+id/bG0"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Shri Ganesh" 
+        android:layout_gravity="center"
+       android:textColor="#ff8000"
+       android:background="@android:color/transparent" 
+       android:textSize="25sp"
+         android:layout_weight="11.11"
+        />
+
+    <Button
+        android:id="@+id/bL1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Maha Laxmi Aarti"  
+        android:layout_gravity="center" 
+        android:layout_marginTop="5sp"
+         android:background="@android:color/transparent" 
+         android:textColor="#ff8000"
+         android:textSize="25sp"
+          android:layout_weight="11.11"
+         />
+
+    <Button
+        android:id="@+id/bOjj2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginTop="5sp"
+        android:background="@android:color/transparent" 
+        android:text="Om Jai Jagdish"
+        android:textColor="#ff8000" 
+        android:textSize="25sp"
+         android:layout_weight="11.11"
+         />
+       
+       <Button
+           android:id="@+id/bjag3"
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="5sp"
+         android:background="@android:color/transparent" 
+         android:textColor="#ff8000"
+        android:text="Jai Ambe Gauri"
+        android:textSize="25sp"
+         android:layout_weight="11.11"
+           />
+       
+       <Button
+           android:id="@+id/bsja4"
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="5sp"
+         android:background="@android:color/transparent" 
+         android:textColor="#ff8000"
+        android:text="Shiv Ji Aarti"
+        android:textSize="25sp"
+         android:layout_weight="11.11"
+           />
+       
+       <Button
+           android:id="@+id/bsa5"
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="5sp"
+         android:background="@android:color/transparent" 
+         android:textColor="#ff8000"
+        android:text="Saraswati Aarti"
+        android:textSize="25sp"
+         android:layout_weight="11.11"
+           />
+       
+       <Button
+           android:id="@+id/be6"
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_marginTop="5sp"
+         android:background="@android:color/transparent" 
+         android:textColor="#ff8000"
+        android:text="Exit"
+        android:textSize="25sp"
+         android:layout_weight="11.11"
+           />
+       
+       
+     
+      <LinearLayout
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="11.11"></LinearLayout>
+</LinearLayout>

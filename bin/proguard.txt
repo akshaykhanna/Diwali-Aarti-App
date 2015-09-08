@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:39
+-keep class com.akibb.bhakti.Aarti { <init>(...); }
+
+# view AndroidManifest.xml #generated:44
+-keep class com.akibb.bhakti.AboutUs { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class com.akibb.bhakti.Intro { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.akibb.bhakti.Main { <init>(...); }
+
